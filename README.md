@@ -1,3 +1,6 @@
+Live Preview
+Click here to [Preview](https://github.com/m6474n/gpt3/blob/main/public/index.html).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
