@@ -26,12 +26,13 @@
     display: flex;
 }
 
+
 .gpt3__whatgpt3-heading{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    margin: 4rem 0 2rem;
+    margin: 2rem 0 2rem;
 }
 .gpt3__whatgpt3-heading h1{
     

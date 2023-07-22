@@ -10,7 +10,7 @@
 .gpt3__feature-conteiner_feature-title{
     flex: 1;
     max-width: 180px;
-    
+    margin-right: 1.5rem; 
 }
 .gpt3__feature-conteiner_feature-title h1{    color: #FFF;
     font-family: var(--font-family);
